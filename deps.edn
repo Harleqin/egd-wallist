@@ -1,1 +1,3 @@
-{:deps {instaparse {:mvn/version "1.4.10"}}}
+{:deps {instaparse {:mvn/version "1.4.10"}}
+ :paths ["src/cljc"]
+ :extra-paths ["test/cljc"]}
