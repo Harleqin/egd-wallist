@@ -1,0 +1,8 @@
+* EGD wallist format
+
+This is an attempt to read and write wallists in the format used by the European
+Go Database.
+
+The specification is a bit wonky, and the known implementations partially
+contradict it, so we try to follow the principle to be accomodating to the
+imput, but as precise as possible in the output.
